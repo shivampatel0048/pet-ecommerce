@@ -6,6 +6,6 @@ Welcome to our Pet E-Commerce Platform! This ReactJS-based web app allows users 
 # Launch the ReactJS app
 npm start
 
-# Activate bonus chat feature
+# Launch the JSON Server
 json-server --watch data.json --port 8080
 ```
